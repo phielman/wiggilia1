@@ -1,0 +1,31 @@
+2018-12-01T20:52:54 sandboxproc.exe C:\DWASFiles\Sites\#1wiggilia\Temp\applicationhost.config False True
+2018-12-01T20:52:54 env XPROC_TYPENAME=Microsoft.Web.Hosting.Transformers.ApplicationHost.SiteExtensionHelper, Microsoft.Web.Hosting, Version=7.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2018-12-01T20:52:54 env XPROC_METHODNAME=Transform
+2018-12-01T20:52:54 Start 'EnableFontAwesome' site extension transform
+2018-12-01T20:52:54 StartSection Executing InsertIfMissing (transform line 3, 31)
+2018-12-01T20:52:54 on /configuration/location[@path='wiggilia']
+2018-12-01T20:52:54 Applying to 'configuration' element (no source line info)
+2018-12-01T20:52:54 EndSection Done executing InsertIfMissing
+2018-12-01T20:52:54 StartSection Executing InsertIfMissing (transform line 4, 27)
+2018-12-01T20:52:54 on /configuration/location[@path='wiggilia']/system.webServer
+2018-12-01T20:52:54 Applying to 'location' element (no source line info)
+2018-12-01T20:52:54 EndSection Done executing InsertIfMissing
+2018-12-01T20:52:54 StartSection Executing InsertIfMissing (transform line 5, 26)
+2018-12-01T20:52:54 on /configuration/location[@path='wiggilia']/system.webServer/staticContent
+2018-12-01T20:52:54 Applying to 'system.webServer' element (no source line info)
+2018-12-01T20:52:54 Inserted 'staticContent' element
+2018-12-01T20:52:54 EndSection Done executing InsertIfMissing
+2018-12-01T20:52:54 StartSection Executing InsertIfMissing (transform line 7, 79)
+2018-12-01T20:52:54 on /configuration/location[@path='wiggilia']/system.webServer/staticContent/mimeMap[@fileExtension='.woff']
+2018-12-01T20:52:54 Applying to 'staticContent' element (no source line info)
+2018-12-01T20:52:54 EndSection Done executing InsertIfMissing
+2018-12-01T20:52:54 StartSection Executing InsertIfMissing (transform line 9, 81)
+2018-12-01T20:52:55 on /configuration/location[@path='wiggilia']/system.webServer/staticContent/mimeMap[@fileExtension='.woff2']
+2018-12-01T20:52:55 Applying to 'staticContent' element (no source line info)
+2018-12-01T20:52:55 EndSection Done executing InsertIfMissing
+2018-12-01T20:52:55 StartSection Executing InsertIfMissing (transform line 11, 77)
+2018-12-01T20:52:55 on /configuration/location[@path='wiggilia']/system.webServer/staticContent/mimeMap[@fileExtension='.ttf']
+2018-12-01T20:52:55 Applying to 'staticContent' element (no source line info)
+2018-12-01T20:52:55 EndSection Done executing InsertIfMissing
+2018-12-01T20:52:55 Successful 'D:\home\SiteExtensions\EnableFontAwesome\applicationHost.xdt' site extension transform
+2018-12-01T20:52:55 sandboxproc.exe complete successfully. Elapsed = 386.00 ms

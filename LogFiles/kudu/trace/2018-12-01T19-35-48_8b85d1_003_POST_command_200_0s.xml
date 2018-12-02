@@ -1,0 +1,5 @@
+<step title="Incoming Request" date="2018-12-01T19:35:48.711" instance="8b85d1" url="/command" method="POST" type="request" pid="7936,2,58" Connection="Keep-Alive" Content-Length="38" Content-Type="application/json" Authorization="Bas..." Host="wiggilia.scm.azurewebsites.net" X-WAWS-Unencoded-URL="/command" CLIENT-IP="13.74.146.128:30400" IS-SERVICE-TUNNELED="0" X-ARR-LOG-ID="c3369258-a8b4-46aa-b786-f3db19986b34" X-SITE-DEPLOYMENT-ID="wiggilia" WAS-DEFAULT-HOSTNAME="wiggilia.scm.azurewebsites.net" X-Forwarded-Proto="https" >
+  <step title="Cleanup Xml Logs" date="2018-12-01T19:35:48.726" /><!-- duration: 0ms -->
+  <step title="Executing cd" date="2018-12-01T19:35:48.726" CWD="site\wwwroot" /><!-- duration: 313ms -->
+  <step title="Outgoing response" date="2018-12-01T19:35:49.054" type="response" statusCode="200" statusText="OK" Server="Microsoft-IIS/10.0" x-ms-request-id="c3369258-a8b4-46aa-b786-f3db19986b34" Cache-Control="private" X-AspNet-Version="4.0.30319" Content-Type="application/json; charset=utf-8" /><!-- duration: 0ms -->
+</step><!-- duration: 344ms -->

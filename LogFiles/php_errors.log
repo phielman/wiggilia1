@@ -1,0 +1,21 @@
+[24-Sep-2018 11:14:31 America/Los_Angeles] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in D:\home\site\wwwroot\lib\index.php on line 37
+[01-Dec-2018 08:06:53 America/Los_Angeles] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in D:\home\site\wwwroot\lib\index.php on line 37
+[01-Dec-2018 09:43:46 America/Los_Angeles] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in D:\home\site\wwwroot\lib\index.php on line 37
+[01-Dec-2018 09:43:50 America/Los_Angeles] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in D:\home\site\wwwroot\lib\index.php on line 37
+[01-Dec-2018 09:43:51 America/Los_Angeles] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in D:\home\site\wwwroot\lib\index.php on line 37
+[01-Dec-2018 09:44:00 America/Los_Angeles] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in D:\home\site\wwwroot\lib\index.php on line 37
+[01-Dec-2018 09:44:21 America/Los_Angeles] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in D:\home\site\wwwroot\lib\index.php on line 37
+[01-Dec-2018 09:45:58 America/Los_Angeles] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in D:\home\site\wwwroot\lib\index.php on line 37
+[01-Dec-2018 10:04:10 America/Los_Angeles] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in D:\home\site\wwwroot\lib\index.php on line 37
+[01-Dec-2018 10:04:12 America/Los_Angeles] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in D:\home\site\wwwroot\lib\index.php on line 37
+[01-Dec-2018 10:04:13 America/Los_Angeles] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in D:\home\site\wwwroot\lib\index.php on line 37
+[01-Dec-2018 12:27:28 America/Los_Angeles] PHP Notice:  Undefined variable: connection in D:\home\site\wwwroot\lib\config.php on line 2
+[01-Dec-2018 12:27:28 America/Los_Angeles] PHP Fatal error:  Call to a member function set_charset() on null in D:\home\site\wwwroot\lib\config.php on line 2
+[01-Dec-2018 12:27:38 America/Los_Angeles] PHP Notice:  Undefined variable: connection in D:\home\site\wwwroot\lib\config.php on line 2
+[01-Dec-2018 12:27:38 America/Los_Angeles] PHP Fatal error:  Call to a member function set_charset() on null in D:\home\site\wwwroot\lib\config.php on line 2
+[01-Dec-2018 12:27:41 America/Los_Angeles] PHP Notice:  Undefined variable: connection in D:\home\site\wwwroot\lib\config.php on line 2
+[01-Dec-2018 12:27:41 America/Los_Angeles] PHP Fatal error:  Call to a member function set_charset() on null in D:\home\site\wwwroot\lib\config.php on line 2
+[01-Dec-2018 12:28:31 America/Los_Angeles] PHP Notice:  Undefined variable: connection in D:\home\site\wwwroot\lib\controller\Index.class.php on line 18
+[01-Dec-2018 12:28:31 America/Los_Angeles] PHP Fatal error:  Call to a member function set_charset() on null in D:\home\site\wwwroot\lib\controller\Index.class.php on line 18
+[01-Dec-2018 12:28:44 America/Los_Angeles] PHP Notice:  Undefined variable: connection in D:\home\site\wwwroot\lib\controller\Index.class.php on line 18
+[01-Dec-2018 12:28:44 America/Los_Angeles] PHP Fatal error:  Call to a member function set_charset() on null in D:\home\site\wwwroot\lib\controller\Index.class.php on line 18
